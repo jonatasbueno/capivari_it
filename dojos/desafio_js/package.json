@@ -1,0 +1,8 @@
+{
+  "name": "desafio_js",
+  "version": "1.0.0",
+  "description": "\"Dojo insira js na página\"",
+  "main": "index.html",
+  "author": "Jônatas Bueno do Livramento",
+  "license": "MIT"
+}
